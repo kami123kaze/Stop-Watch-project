@@ -61,3 +61,19 @@
 #Reset{
   background-color: #c91400; 
 }
+.btn:hover{
+  opacity: .5;
+  transition: 1s;
+}
+.h1:hover{
+  text-decoration: underline;
+  letter-spacing: -.01em;
+  cursor: grab;
+}
+.h2{
+  
+  color: #a6dc69; 
+}
+.Text{
+  color: rgb(21, 164, 124);
+}
